@@ -2,7 +2,7 @@
 
 ### Used technologies
 
-  * Angular 
+  * AngularJS 
   * Ionic
   * Cordova
   * Gulp
